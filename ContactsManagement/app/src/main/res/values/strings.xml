@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Time to send notification</string>
+    <string name="notification_header">Sending a notification</string>
+
+    <!-- Messages Preferences -->
+    <string name="time_title">Select a time to send a notificationr</string>
+
+    <!-- Sync Preferences -->
+    <string name="attachment_title">Sending notification</string>
+    <string name="attachment_summary_on">Enable notification
+    </string>
+    <string name="attachment_summary_off">Do not allow notification to be sent</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
