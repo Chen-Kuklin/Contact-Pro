@@ -3,7 +3,7 @@ An application used to manage contacts with extensive features.
 This  project presents a contact management application with advanced features. Users can add contacts along with their photos, email address, residential address, and even have the option to block contacts from calling. Furthermore, users can also insert notes to add important details, such as the most convenient time to call. Additionally, the app offers the ability to add a birthday date to a contact and save it in the calendar, which automatically sends a reminder on the contact's birthday.
 Within the settings menu, users have the option to enable or disable birthday notifications and set the specific time for the notifications to appear
 
-<p align="center">
+<p align="center"> 
     <img height="300px" width="150px" src="ContactsManagement/images/user1.jpeg" alt="Material Bread logo">
 </p>
 
