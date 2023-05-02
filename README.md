@@ -4,7 +4,7 @@ This  project presents a contact management application with advanced features. 
 Within the settings menu, users have the option to enable or disable birthday notifications and set the specific time for the notifications to appear
 
 <p align="center">
-    <img height="300px" width="100px" src="ContactsManagement/images/user1.jpeg" alt="Material Bread logo">
+    <img height="300px" width="200px" src="ContactsManagement/images/user1.jpeg" alt="Material Bread logo">
 </p>
 
 
